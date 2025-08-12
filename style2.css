@@ -1,0 +1,42 @@
+body{
+ background-color:bisque;
+ text-align: center;
+}
+
+.boxes_main_Container{
+    display: flex;
+    justify-content: center;
+    /* margin: 3rem; */
+}
+
+
+.box{
+    width: 200px;
+    height:200px;
+    border-radius:20%;
+    border: 8px solid black;
+    margin: 1.5rem;
+    cursor: pointer;
+    
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.darkcyan{
+    background-color: darkcyan;
+}
+
+.crimson{
+    background-color: crimson;
+}
+
+.deepskyblue{
+    background-color: deepskyblue;
+}
+
+.flash{
+    background-color: white;
+}
+
