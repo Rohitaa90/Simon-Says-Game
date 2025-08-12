@@ -40,3 +40,27 @@ body{
     background-color: white;
 }
 
+
+.rules{
+    background-color: bisque;
+    display: flex;
+    justify-content:flex-start;
+    height: 40px;
+    /* width: min-content; */
+    width: fit-content;
+    align-items: center;
+    margin:auto;
+    padding-left: 1rem;
+    border-radius: 4px;
+    border: 6px solid yellowgreen;
+}
+h3{
+    padding: right 2px;
+}
+
+button{
+    margin: 1rem;
+    border-radius: 7px;
+    border: 2px solid chocolate;
+    cursor: pointer;
+}
